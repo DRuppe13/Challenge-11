@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Module 11 Challenge: Forecasting Net Prophet
 
 ![Decorative image.](Images/unit-11-readme-photo.png)
@@ -149,3 +150,7 @@ To create the forecast, complete the following steps:
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# Challenge-11 Forecasting Net Prophet
+Growth through data
+>>>>>>> 368e03e7da0fb0b2ce2090e20321b1aa7b204dc9
